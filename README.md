@@ -1,5 +1,3 @@
-# hastaneOtomasyonu
-
 # Hastane Muayene Sıra Sistemi
 
 Bu proje, hastanelerde hasta muayene sırası yönetimini sağlayan bir masaüstü uygulamasıdır. Sistem, hastaların önceliklerine göre sıralanmasını ve randevu yönetimini kolaylaştırmayı amaçlamaktadır.
@@ -25,8 +23,8 @@ Bu proje, hastanelerde hasta muayene sırası yönetimini sağlayan bir masaüst
 
 ```
 src/
-├── Main.java              # Ana uygulama başlangıç noktası
-├── HospitalGUI.java       # Grafiksel kullanıcı arayüzü
+├── Main.java             # Ana uygulama başlangıç noktası
+├── HospitalGUI.java      # Grafiksel kullanıcı arayüzü
 ├── Hasta.java            # Hasta sınıfı ve ilgili işlemler
 ├── Heap.java             # Öncelikli sıra için heap implementasyonu
 └── Hasta.txt             # Hasta verilerinin saklandığı dosya
